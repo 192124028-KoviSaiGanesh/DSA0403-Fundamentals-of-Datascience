@@ -1,0 +1,7 @@
+customer_id,age,income,product_views,add_to_cart,completed_purchase
+1,30,50000,15,3,1
+2,25,60000,20,5,0
+3,40,75000,10,2,1
+4,22,40000,8,1,0
+5,35,80000,25,4,1
+6,28,55000,12,2,0

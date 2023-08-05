@@ -1,0 +1,4 @@
+customer_id, purchase_history_feature1, purchase_history_feature2, browsing_behavior_feature1, browsing_behavior_feature2, demographic_feature1, demographic_feature2
+1, 10, 25, 50, 75, 25, 30
+2, 5, 15, 40, 60, 30, 40
+3, 20, 30, 60, 90, 22, 28

@@ -1,0 +1,7 @@
+age,gender,blood_pressure,cholesterol,treatment_outcome
+45,Female,120/80,Normal,Good
+60,Male,140/90,High,Bad
+30,Female,110/70,Normal,Good
+50,Male,130/85,High,Good
+65,Female,150/95,High,Bad
+40,Male,125/80,Normal,Good
